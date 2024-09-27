@@ -1,4 +1,4 @@
-module certimate
+module github.com/ycq3/certimate
 
 go 1.22
 
