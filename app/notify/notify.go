@@ -3,7 +3,7 @@ package notify
 import (
 	"context"
 	"fmt"
-	"github.com/usual2970/certimate/internal/utils/app"
+	"github.com/usual2970/certimate/app/utils/app"
 	"strconv"
 
 	notifyPackage "github.com/nikoksr/notify"

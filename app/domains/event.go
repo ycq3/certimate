@@ -1,7 +1,7 @@
 package domains
 
 import (
-	"github.com/usual2970/certimate/internal/utils/app"
+	"github.com/usual2970/certimate/app/utils/app"
 
 	"github.com/pocketbase/pocketbase/core"
 )

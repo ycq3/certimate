@@ -9,7 +9,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/usual2970/certimate/internal/domain"
+	"github.com/usual2970/certimate/app/domain"
 
 	openapi "github.com/alibabacloud-go/darabonba-openapi/v2/client"
 	dcdn20180115 "github.com/alibabacloud-go/dcdn-20180115/v3/client"

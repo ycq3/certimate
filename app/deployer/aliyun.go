@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/usual2970/certimate/internal/applicant"
-	"github.com/usual2970/certimate/internal/domain"
-	"github.com/usual2970/certimate/internal/utils/rand"
+	"github.com/usual2970/certimate/app/applicant"
+	"github.com/usual2970/certimate/app/domain"
+	"github.com/usual2970/certimate/app/utils/rand"
 	"strings"
 
 	cas20200407 "github.com/alibabacloud-go/cas-20200407/v2/client"

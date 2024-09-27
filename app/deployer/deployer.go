@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/usual2970/certimate/internal/applicant"
-	"github.com/usual2970/certimate/internal/utils/app"
-	"github.com/usual2970/certimate/internal/utils/variables"
+	"github.com/usual2970/certimate/app/applicant"
+	"github.com/usual2970/certimate/app/utils/app"
+	"github.com/usual2970/certimate/app/utils/variables"
 	"strings"
 
 	"github.com/pocketbase/pocketbase/models"

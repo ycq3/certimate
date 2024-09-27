@@ -2,7 +2,7 @@ package applicant
 
 import (
 	"encoding/json"
-	"github.com/usual2970/certimate/internal/domain"
+	"github.com/usual2970/certimate/app/domain"
 	"os"
 
 	cf "github.com/go-acme/lego/v4/providers/dns/cloudflare"

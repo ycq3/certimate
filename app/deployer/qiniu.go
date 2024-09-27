@@ -5,8 +5,8 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/usual2970/certimate/internal/domain"
-	xhttp "github.com/usual2970/certimate/internal/utils/http"
+	"github.com/usual2970/certimate/app/domain"
+	xhttp "github.com/usual2970/certimate/app/utils/http"
 	"io"
 	"net/http"
 

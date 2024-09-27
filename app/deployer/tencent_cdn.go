@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/usual2970/certimate/internal/domain"
-	"github.com/usual2970/certimate/internal/utils/rand"
+	"github.com/usual2970/certimate/app/domain"
+	"github.com/usual2970/certimate/app/utils/rand"
 
 	"github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common"
 	"github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common/profile"

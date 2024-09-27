@@ -4,9 +4,9 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/usual2970/certimate/internal/applicant"
-	"github.com/usual2970/certimate/internal/deployer"
-	"github.com/usual2970/certimate/internal/utils/app"
+	"github.com/usual2970/certimate/app/applicant"
+	"github.com/usual2970/certimate/app/deployer"
+	"github.com/usual2970/certimate/app/utils/app"
 	"time"
 
 	"github.com/pocketbase/pocketbase/models"

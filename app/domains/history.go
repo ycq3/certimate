@@ -1,9 +1,9 @@
 package domains
 
 import (
-	"github.com/usual2970/certimate/internal/applicant"
-	"github.com/usual2970/certimate/internal/utils/app"
-	"github.com/usual2970/certimate/internal/utils/xtime"
+	"github.com/usual2970/certimate/app/applicant"
+	"github.com/usual2970/certimate/app/utils/app"
+	"github.com/usual2970/certimate/app/utils/xtime"
 	"time"
 
 	"github.com/pocketbase/pocketbase/models"

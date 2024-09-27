@@ -1,8 +1,8 @@
 package notify
 
 import (
-	"github.com/usual2970/certimate/internal/utils/app"
-	"github.com/usual2970/certimate/internal/utils/xtime"
+	"github.com/usual2970/certimate/app/utils/app"
+	"github.com/usual2970/certimate/app/utils/xtime"
 	"strconv"
 	"strings"
 	"time"

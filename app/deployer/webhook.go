@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	xhttp "github.com/usual2970/certimate/internal/utils/http"
+	xhttp "github.com/usual2970/certimate/app/utils/http"
 	"net/http"
 )
 
