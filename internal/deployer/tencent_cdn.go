@@ -1,11 +1,11 @@
 package deployer
 
 import (
-	"certimate/internal/domain"
-	"certimate/internal/utils/rand"
 	"context"
 	"encoding/json"
 	"fmt"
+	"github.com/usual2970/certimate/internal/domain"
+	"github.com/usual2970/certimate/internal/utils/rand"
 
 	"github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common"
 	"github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common/profile"

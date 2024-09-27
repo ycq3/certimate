@@ -1,12 +1,12 @@
 package domains
 
 import (
-	"certimate/internal/applicant"
-	"certimate/internal/deployer"
-	"certimate/internal/utils/app"
 	"context"
 	"errors"
 	"fmt"
+	"github.com/usual2970/certimate/internal/applicant"
+	"github.com/usual2970/certimate/internal/deployer"
+	"github.com/usual2970/certimate/internal/utils/app"
 	"time"
 
 	"github.com/pocketbase/pocketbase/models"

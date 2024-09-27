@@ -1,13 +1,13 @@
 package deployer
 
 import (
-	"certimate/internal/applicant"
-	"certimate/internal/utils/app"
-	"certimate/internal/utils/variables"
 	"context"
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/usual2970/certimate/internal/applicant"
+	"github.com/usual2970/certimate/internal/utils/app"
+	"github.com/usual2970/certimate/internal/utils/variables"
 	"strings"
 
 	"github.com/pocketbase/pocketbase/models"

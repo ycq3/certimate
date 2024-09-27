@@ -1,13 +1,13 @@
 package applicant
 
 import (
-	"certimate/internal/utils/app"
 	"crypto"
 	"crypto/ecdsa"
 	"crypto/elliptic"
 	"crypto/rand"
 	"errors"
 	"fmt"
+	"github.com/usual2970/certimate/internal/utils/app"
 	"strings"
 
 	"github.com/go-acme/lego/v4/certcrypto"

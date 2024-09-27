@@ -1,10 +1,8 @@
-module github.com/ycq3/certimate
+module github.com/usual2970/certimate
 
 go 1.22
 
 toolchain go1.22.5
-
-replace ./certimate => github.com/ycq3/certimate latest
 
 require (
 	github.com/alibabacloud-go/cas-20200407/v2 v2.3.0

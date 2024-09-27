@@ -2,11 +2,11 @@ package deployer
 
 import (
 	"bytes"
-	"certimate/internal/domain"
-	xhttp "certimate/internal/utils/http"
 	"context"
 	"encoding/json"
 	"fmt"
+	"github.com/usual2970/certimate/internal/domain"
+	xhttp "github.com/usual2970/certimate/internal/utils/http"
 	"io"
 	"net/http"
 

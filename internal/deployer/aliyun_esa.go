@@ -6,10 +6,10 @@
 package deployer
 
 import (
-	"certimate/internal/domain"
 	"context"
 	"encoding/json"
 	"fmt"
+	"github.com/usual2970/certimate/internal/domain"
 
 	openapi "github.com/alibabacloud-go/darabonba-openapi/v2/client"
 	dcdn20180115 "github.com/alibabacloud-go/dcdn-20180115/v3/client"

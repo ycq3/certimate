@@ -1,8 +1,8 @@
 package applicant
 
 import (
-	"certimate/internal/domain"
 	"encoding/json"
+	"github.com/usual2970/certimate/internal/domain"
 	"os"
 
 	godaddyProvider "github.com/go-acme/lego/v4/providers/dns/godaddy"

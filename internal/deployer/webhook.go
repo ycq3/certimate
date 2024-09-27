@@ -2,10 +2,10 @@ package deployer
 
 import (
 	"bytes"
-	xhttp "certimate/internal/utils/http"
 	"context"
 	"encoding/json"
 	"fmt"
+	xhttp "github.com/usual2970/certimate/internal/utils/http"
 	"net/http"
 )
 

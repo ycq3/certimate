@@ -1,9 +1,9 @@
 package domains
 
 import (
-	"certimate/internal/notify"
-	"certimate/internal/utils/app"
 	"context"
+	"github.com/usual2970/certimate/internal/notify"
+	"github.com/usual2970/certimate/internal/utils/app"
 )
 
 func InitSchedule() {

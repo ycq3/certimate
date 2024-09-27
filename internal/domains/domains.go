@@ -1,9 +1,9 @@
 package domains
 
 import (
-	"certimate/internal/utils/app"
 	"context"
 	"fmt"
+	"github.com/usual2970/certimate/internal/utils/app"
 
 	"github.com/pocketbase/pocketbase/models"
 )

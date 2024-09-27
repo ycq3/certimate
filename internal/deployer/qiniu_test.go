@@ -1,7 +1,7 @@
 package deployer
 
 import (
-	"certimate/internal/applicant"
+	"github.com/usual2970/certimate/internal/applicant"
 	"testing"
 
 	"github.com/qiniu/go-sdk/v7/auth"

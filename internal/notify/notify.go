@@ -1,9 +1,9 @@
 package notify
 
 import (
-	"certimate/internal/utils/app"
 	"context"
 	"fmt"
+	"github.com/usual2970/certimate/internal/utils/app"
 	"strconv"
 
 	notifyPackage "github.com/nikoksr/notify"
